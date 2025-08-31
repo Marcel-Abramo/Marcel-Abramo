@@ -83,5 +83,5 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 ---
 
-## ✨ Extras (se quiser caprichar ainda mais)
+## ✨ Extras
 Badge de “Open to Work” ou “Always Learning”.
