@@ -54,14 +54,14 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 <b>Contexto:</b> Projeto final do módulo de Automação em Cypress que simula um sistema bancário. 
 <br>
 <b>Cobertura:</b> Features de Login, Registro, Transferência, Histórico e Validações. Organização dos testes com <b>Page Objects</b> para melhor manutenção e escalabilidade  
-<br>
+
 🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/RWA-exercises"> link </a>
 
 
 ### • Primeiros Passos com Cypress: Automação de Login e Atualização de Usuário (Cypress) <br>
 <b>Contexto:</b> Projeto inicial da Mentoria para praticar automação com Cypress em fluxos básicos de usuário. 
 <br>
-<b>Cobertura:</b> Testes de login (válido/inválido) e atualização de dados do usuário. Iniciando a implementação de <b>Page Objects</b. 
+<b>Cobertura:</b> Testes de login (válido/inválido) e atualização de dados do usuário. Iniciando a implementação de <b>Page Objects</b>. 
 <br>
 🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/primeiros-passos-cypress"> link </a>
 
