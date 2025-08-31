@@ -87,7 +87,7 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 
 <a href="https://github.com/Marcel-Abramo/bootcamp-cypress">
-  <img src="https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white" alt="Repositório" height="35">
+  <img src="https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white" alt="Repositório" height="65">
 </a>
 
 ---
