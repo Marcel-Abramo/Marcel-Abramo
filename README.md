@@ -83,12 +83,15 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ! 🔗 Repositório: link
 🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/primeiros-passos-cypress"> link </a>
 
+
+<a href="https://github.com/Marcel-Abramo/bootcamp-cypress">
+  <img src="https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white" alt="Repositório" height="35">
+</a>
+
 -->
 
 
-<a href="https://github.com/Marcel-Abramo/bootcamp-cypress">
-  <img src="https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white" alt="Repositório" height="65">
-</a>
+
 
 ---
 
