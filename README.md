@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Git%20Bash-FFE000?style=flat&logo=git&logoColor=white"/>
 <br>
 </div>
 ---
