@@ -12,38 +12,38 @@ Here are some ideas to get you started:
 -->
 
 ## 🧭 Sobre mim
-• 
-• 
+<p>•  </p> 
+<p>•  </p> 
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-• 
-• 
+<p>•  </p> 
+<p>•  </p> 
 
 ---
 
 ## 📚 Aprendizado agora e futuro
-• 
-• 
+<p>•  </p> 
+<p>•  </p> 
 
 ---
 
 ## 🧪 Projetos em destaque
-• 
-• 
+<p>•  </p> 
+<p>•  </p> 
 
 ---
 
 ## 🏅 Certificações & Formação 
-• Cursos concluídos (bootcamps, mentorias, workshops).
-• 
+<p>• Cursos concluídos (bootcamps, mentorias, workshops).</p> 
+<p>•  </p> 
 
 ---
 
 ## 📫 Contato
-• 
-• 
+<p>•  </p> 
+<p>•  </p> 
 
 ---
 
