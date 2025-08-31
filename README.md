@@ -68,7 +68,8 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 <p>• Programação Básica Focada para QA com JavaScript </p> 
 <p>• Software Testing e Processos Scrum </p> 
 <br>
-#### Bootcamps
+
+### Bootcamps
 <p>• Tudo sobre Scrum </p> 
 <p>• Tudo sobre Kanban </p> 
 <p>• Revisão sobre linhas de comando, padrões de código e automação de testes no Cypress Heroes </p> 
