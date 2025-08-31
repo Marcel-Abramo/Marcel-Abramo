@@ -31,7 +31,6 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 <div style="display: flex; gap: 10px;">
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff"/>
@@ -79,9 +78,8 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## 📫 Contato
-<p>• <a href="https://www.linkedin.com/in/marcel-abramo-8273b5224/"> LinkedIn - Andreline Lira </a> </p> 
-
-<p>•  </p> 
+<p>• <a href="https://www.linkedin.com/in/marcel-abramo-8273b5224/"> LinkedIn - Marcel Abramo QA </a> </p> 
+<p>• E‑mail: marcel.abramo.galego@gmail.com </p> 
 
 ---
 
