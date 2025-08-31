@@ -58,15 +58,15 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ### 1) Testes end‑to‑end no Real World App (Cypress) <br>
 <b>Contexto:</b> Projeto final do módulo de Automação em Cypress que simula um sistema bancário. 
 <br>
-<b>Cobertura:</b> login/registro, transferência, histórico, validações. 
+<b>Cobertura:</b> Features de Login, Registro, Transferência, Histórico e Validações. 
 <br>
 🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/RWA-exercises"> link </a>
 
 
 ### 2) Primeiros Passos com Cypress: Automação de Login e Atualização de Usuário (Cypress) <br>
-<b>Contexto:</b> Projeto inicial para praticar automação com Cypress em fluxos básicos de usuário. 
+<b>Contexto:</b> Projeto inicial da Mentoria para praticar automação com Cypress em fluxos básicos de usuário. 
 <br>
-<b>Cobertura:</b> Testes de login (válido/inválido) e atualização de dados do usuário e Organização dos testes com Page Objects para melhor manutenção e escalabilidade 
+<b>Cobertura:</b> Testes de login (válido/inválido) e atualização de dados do usuário e Organização dos testes com <b>Page Objects</b> para melhor manutenção e escalabilidade 
 <br>
 🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/primeiros-passos-cypress"> link </a>
 
@@ -85,10 +85,14 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ! Contexto: 
 ! Cobertura:
 ! 🔗 Repositório: link
+
+! 4) CypressHeros
+! Contexto: 
+! Cobertura:
+! 🔗 Repositório: link
+
+
 -->
-
-
-
 
 
 ---
