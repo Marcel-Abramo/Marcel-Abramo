@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🧭 Sobre mim
-<p>• QA Engineer em evolução, apaixonado por qualidade de software.
-Atuo com testes manuais e automação.
-Tenho como objetivo elevar o padrão dos produtos e colaborar para entregas mais seguras.
-<p>•  </p> 
+<p> 
+**QA Engineer**, apaixonado por qualidade de software. Formado em Análise e Desenvolvimento de Sistemas.
+Atuo com testes manuais e automação. Tenho como objetivo elevar o padrão do produto final e colaborar para entregas mais seguras.
+</p> 
 
 ---
 
@@ -40,15 +40,9 @@ Tenho como objetivo elevar o padrão dos produtos e colaborar para entregas mais
 <p> • Testes de Software </p>
 <p> • Processos Ágeis </p>
 <p> • Automação de Testes com Cypress </p>
-
-
 <p> • Testes de API </p>
 <p> • Automação de API com Postman </p>
 <p> • Automação Mobile </p>
-
-
-Objetivos: dominar testes avançados e CI/CD. </p> 
-<p>•  </p> 
 
 ---
 
