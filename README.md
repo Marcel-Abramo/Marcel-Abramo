@@ -14,26 +14,38 @@ Here are some ideas to get you started:
 ## 🧭 Sobre mim
 • 
 • 
+
 ---
+
 ## 🛠️ Tecnologias e Ferramentas
 • 
 • 
+
 ---
+
 ## 📚 Aprendizado agora e futuro
 • 
 • 
+
 ---
+
 ## 🧪 Projetos em destaque
 • 
 • 
+
 ---
+
 ## 🏅 Certificações & Formação 
 • Cursos concluídos (bootcamps, mentorias, workshops).
 • 
+
 ---
+
 ## 📫 Contato
 • 
 • 
+
 ---
+
 ## ✨ Extras (se quiser caprichar ainda mais)
 Badge de “Open to Work” ou “Always Learning”.
