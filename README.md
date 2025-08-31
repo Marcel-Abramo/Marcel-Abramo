@@ -55,9 +55,9 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 ## 🧪 Projetos em destaque
 
-1) Testes end‑to‑end no Real World App (Cypress)
-Contexto: Projeto final do módulo de Automação em Cypress que simula um sistema bancário.
-Cobertura: login/registro, transferência, histórico, validações.
+# 1) Testes end‑to‑end no Real World App (Cypress) <br>
+<b>Contexto:</b> Projeto final do módulo de Automação em Cypress que simula um sistema bancário. <br>
+<b>Cobertura:</b> login/registro, transferência, histórico, validações. <br>
 🔗 Repositório: link
 <p>• https://github.com/Marcel-Abramo/RWA-exercises </p> 
 
