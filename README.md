@@ -79,10 +79,9 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 ## 📫 Contato
 <p>• <a href="https://www.linkedin.com/in/marcel-abramo-8273b5224/"> LinkedIn - Marcel Abramo QA </a> </p> 
-<p>• E‑mail: marcel.abramo.galego@gmail.com </p> 
 
 ---
 
 ## ✨ Extras
-
+<img src="https://img.shields.io/badge/Open%20to%20Work-darkgreen"/>
 
