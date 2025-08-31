@@ -89,6 +89,7 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcel-abramo-8273b5224%2F/">
 
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcel-abramo-8273b5224%2F">
 
 ---
 
