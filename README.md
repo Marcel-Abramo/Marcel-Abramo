@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 ## 🛠️ Tecnologias e Ferramentas
 <p>•  </p> 
 <p>•  </p> 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 ---
 
