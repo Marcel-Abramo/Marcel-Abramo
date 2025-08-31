@@ -85,4 +85,5 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## ✨ Extras
-Badge de “Open to Work” ou “Always Learning”.
+<img src="https://img.shields.io/badge/Open%to%Work-80%25-yellow%5D))"/>
+
