@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git%20Bash-FF0000?style=flat&logo=git&logoColor=yellow"/>
 <br>
 </div>
+
 ---
 
 ## 📚 Aprendizado agora e futuro
