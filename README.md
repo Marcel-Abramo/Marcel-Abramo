@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
   
-<img src=https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
 <br>
 <img src=https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff/>
 <br>
