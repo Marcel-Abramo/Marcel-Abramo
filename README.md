@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 <p> 
 <b>QA Engineer</b>, apaixonado por qualidade de software. Formado em Análise e Desenvolvimento de Sistemas. <br>
 Atuo com testes manuais e automação. 
-Atualmente, trabalho em um projeto voluntário real onde sou responsável por estruturar todo o processo de testes desde o levantamento dos requisitos, tendo como base uma portaria regulatória, como a criação do plano, dos cenários e dos casos de testes e posteriormente a automação dos testes.<br>
+Atualmente, trabalho em um projeto voluntário real onde sou responsável por estruturar todo o processo de testes desde o levantamento dos requisitos, tendo como base uma portaria regulatória, como também a criação do plano de testes, dos cenários e dos casos de testes e posteriormente a automação dos testes levando em consideração as partes críticas do sistema.<br>
 Tenho como objetivo elevar o padrão do produto final e colaborar para entregas mais seguras.
 </p> 
-
-
-
-
-
 
 ---
 
@@ -98,11 +93,11 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## 🏅 Certificações & Formação 
-<p>• Automação Mobile com Robot Framework e Testes Manuais e Perfomance com Postman </p> 
-<p>• Conceitos de teste e Inteligência Artificial - Automação de Testes Web Cypress - Automação de Testes para API com Cypress </p> 
-<p>• HTML para Automação </p> 
-<p>• Programação Básica Focada para QA com JavaScript </p> 
-<p>• Software Testing e Processos Scrum </p> 
+• Automação Mobile com Robot Framework e Testes Manuais e Perfomance com Postman <br>
+• Conceitos de teste e Inteligência Artificial - Automação de Testes Web Cypress - Automação de Testes para API com Cypress 
+• HTML para Automação 
+• Programação Básica Focada para QA com JavaScript <
+• Software Testing e Processos Scrum 
 <br>
 
 ### Bootcamps
