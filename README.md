@@ -62,13 +62,17 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## 🏅 Certificações & Formação 
-#### <p>• Automação Mobile com Robot Framework e Testes Manuais e Perfomance com Postman </p> 
-#### <p>• Conceitos de teste e Inteligência Artificial - Automação de Testes Web Cypress - Automação de Testes para API com Cypress </p> 
-#### <p>• HTML para Automação </p> 
+<p>• Automação Mobile com Robot Framework e Testes Manuais e Perfomance com Postman </p> 
+<p>• Conceitos de teste e Inteligência Artificial - Automação de Testes Web Cypress - Automação de Testes para API com Cypress </p> 
+<p>• HTML para Automação </p> 
 <p>• Programação Básica Focada para QA com JavaScript </p> 
 <p>• Software Testing e Processos Scrum </p> 
-<p>• </p> 
-<p>• </p> 
+<br>
+#### <p> Bootcamps </p>
+<p>• Tudo sobre Scrum </p> 
+<p>• Tudo sobre Kanban </p> 
+<p>• Revisão sobre linhas de comando, padrões de código e automação de testes no Cypress Heroes </p> 
+<p>• Teste Automatizados de API utilizando Vitest e Supertest </p> 
 
 ---
 
