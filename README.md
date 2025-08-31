@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🧭 Sobre mim
-<p>•  </p> 
+<p>• QA Engineer em evolução, apaixonado por qualidade de software.
+Atuo com testes manuais e automação (Cypress, Postman, JavaScript).
+Tenho como objetivo elevar o padrão dos produtos e colaborar para entregas mais seguras.
 <p>•  </p> 
 
 ---
