@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff) <br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff) <br>
 
+https://img.shields.io/badge/just%20the%20message-8A2BE2
+
 ---
 
 ## 📚 Aprendizado agora e futuro
