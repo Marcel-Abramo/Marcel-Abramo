@@ -30,10 +30,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff"/>
 
+<img src="https://camo.githubusercontent.com/e5d1910ae38383c2d31bdb5ee0c87ff9aa6a3dcb07021adcef295bc651d5029b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6972612d3030353243433f7374796c653d666c6174266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465/>
 
-<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2/> <br>
-
-https://camo.githubusercontent.com/e5d1910ae38383c2d31bdb5ee0c87ff9aa6a3dcb07021adcef295bc651d5029b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6972612d3030353243433f7374796c653d666c6174266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465
 </div>
 ---
 
