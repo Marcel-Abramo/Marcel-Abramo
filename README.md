@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## 🧭 Sobre mim
 <p> 
-** QA Engineer **, apaixonado por qualidade de software. Formado em Análise e Desenvolvimento de Sistemas.
+<b>QA Engineer</b>, apaixonado por qualidade de software. Formado em Análise e Desenvolvimento de Sistemas.
 Atuo com testes manuais e automação. Tenho como objetivo elevar o padrão do produto final e colaborar para entregas mais seguras.
 </p> 
 
