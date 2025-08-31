@@ -55,29 +55,37 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 ## 🧪 Projetos em destaque
 
-# 1) Testes end‑to‑end no Real World App (Cypress) <br>
-<b>Contexto:</b> Projeto final do módulo de Automação em Cypress que simula um sistema bancário. <br>
-<b>Cobertura:</b> login/registro, transferência, histórico, validações. <br>
-🔗 Repositório: link
-<p>• https://github.com/Marcel-Abramo/RWA-exercises </p> 
-
-2) Primeiros Passos com Cypress: Automação de Login e Atualização de Usuário (Cypress)
-Contexto: Projeto inicial para praticar automação com Cypress em fluxos básicos de usuário.
-Cobertura: Testes de login (válido/inválido) e atualização de dados do usuário e Organização dos testes com Page Objects para melhor manutenção e escalabilidade
-🔗 Repositório: link
-<p>• https://github.com/Marcel-Abramo/primeiros-passos-cypress </p> 
+### 1) Testes end‑to‑end no Real World App (Cypress) <br>
+<b>Contexto:</b> Projeto final do módulo de Automação em Cypress que simula um sistema bancário. 
+<br>
+<b>Cobertura:</b> login/registro, transferência, histórico, validações. 
+<br>
+🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/RWA-exercises"> link </a>
 
 
-3) Bootcamp Cypress – Automação de Testes Web (Exercícios Práticos) (Cypress)
-Contexto: Repositório criado durante o Bootcamp de Cypress para praticar automação de testes em fluxos web básicos, consolidando a escrita de testes E2E e a estruturação do projeto.
-Cobertura: Testes automatizados dos principais fluxos web como login, navegação, formulários e interações básicas com página.
-🔗 Repositório: link
-<p>• https://github.com/Marcel-Abramo/bootcamp-cypress </p> 
+### 2) Primeiros Passos com Cypress: Automação de Login e Atualização de Usuário (Cypress) <br>
+<b>Contexto:</b> Projeto inicial para praticar automação com Cypress em fluxos básicos de usuário. 
+<br>
+<b>Cobertura:</b> Testes de login (válido/inválido) e atualização de dados do usuário e Organização dos testes com Page Objects para melhor manutenção e escalabilidade 
+<br>
+🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/primeiros-passos-cypress"> link </a>
 
+
+### 3) Bootcamp Cypress – Automação de Testes Web (Exercícios Práticos) (Cypress) <br>
+<b>Contexto:</b> Repositório criado durante o Bootcamp de Cypress para praticar automação de testes em fluxos web básicos, consolidando a escrita de testes E2E e a estruturação do projeto. 
+<br>
+<b>Cobertura:</b> Testes automatizados dos principais fluxos web como login, navegação, formulários e interações básicas com página. 
+<br>
+🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/bootcamp-cypress"> link </a>
+
+
+
+<!--
 ! 4) LibreClass
 ! Contexto: 
 ! Cobertura:
 ! 🔗 Repositório: link
+-->
 
 
 
