@@ -47,8 +47,10 @@ Atuo com testes manuais e automação. Tenho como objetivo elevar o padrão do p
 ---
 
 ## 🧪 Projetos em destaque
-<p>•  </p> 
-<p>•  </p> 
+
+<p>• https://github.com/Marcel-Abramo/RWA-exercises </p> 
+<p>• https://github.com/Marcel-Abramo/bootcamp-cypress </p> 
+<p>• https://github.com/Marcel-Abramo/primeiros-passos-cypress </p> 
 
 ---
 
