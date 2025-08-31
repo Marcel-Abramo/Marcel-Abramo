@@ -32,6 +32,7 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff"/>
