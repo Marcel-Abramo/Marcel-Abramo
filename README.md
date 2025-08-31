@@ -13,9 +13,16 @@ Here are some ideas to get you started:
 
 ## 🧭 Sobre mim
 <p> 
-<b>QA Engineer</b>, apaixonado por qualidade de software. Formado em Análise e Desenvolvimento de Sistemas.
-Atuo com testes manuais e automação. Tenho como objetivo elevar o padrão do produto final e colaborar para entregas mais seguras.
+<b>QA Engineer</b>, apaixonado por qualidade de software. Formado em Análise e Desenvolvimento de Sistemas. <br>
+Atuo com testes manuais e automação. 
+Atualmente, trabalho em um projeto voluntário real onde sou responsável por estruturar todo o processo de testes desde o levantamento dos requisitos, tendo como base uma portaria regulatória, como a criação do plano, dos cenários e dos casos de testes e posteriormente a automação dos testes.<br>
+Tenho como objetivo elevar o padrão do produto final e colaborar para entregas mais seguras.
 </p> 
+
+
+
+
+
 
 ---
 
@@ -55,7 +62,7 @@ Atuo com testes manuais e automação. Tenho como objetivo elevar o padrão do p
 ---
 
 ## 🏅 Certificações & Formação 
-<p>• Cursos concluídos (bootcamps, mentorias, workshops).</p> 
+<p>•  </p> 
 <p>•  </p> 
 
 ---
