@@ -93,6 +93,7 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## 🏅 Certificações & Formação 
+### Certificados
 • Automação Mobile com Robot Framework e Testes Manuais e Perfomance com Postman <br>
 • Conceitos de teste e Inteligência Artificial - Automação de Testes Web Cypress - Automação de Testes para API com Cypress <br> 
 • HTML para Automação <br> 
