@@ -85,5 +85,5 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## ✨ Extras
-<img src="https://img.shields.io/badge/Open%to%Work-yellow%5D"/>
+<img src="https://img.shields.io/badge/Open%to%Work"/>
 
