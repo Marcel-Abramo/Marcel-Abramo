@@ -39,12 +39,12 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ## 📚 Aprendizado agora e futuro
 
 ### Mentoria Guardiões da Qualidade 
-<p> • Testes de Software </p>
-<p> • Processos Ágeis </p>
-<p> • Automação de Testes com Cypress </p>
-<p> • Testes de API </p>
-<p> • Automação de API com Postman </p>
-<p> • Automação Mobile </p>
+• Testes de Software <br>
+• Processos Ágeis <br>
+• Automação de Testes com Cypress <br>  
+• Testes de API <br> 
+• Automação de API com Postman <br> 
+• Automação Mobile <br>
 
 ---
 
@@ -94,17 +94,17 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 ## 🏅 Certificações & Formação 
 • Automação Mobile com Robot Framework e Testes Manuais e Perfomance com Postman <br>
-• Conceitos de teste e Inteligência Artificial - Automação de Testes Web Cypress - Automação de Testes para API com Cypress 
-• HTML para Automação 
-• Programação Básica Focada para QA com JavaScript <
-• Software Testing e Processos Scrum 
+• Conceitos de teste e Inteligência Artificial - Automação de Testes Web Cypress - Automação de Testes para API com Cypress <br> 
+• HTML para Automação <br> 
+• Programação Básica Focada para QA com JavaScript <br>
+• Software Testing e Processos Scrum <br> 
 <br>
 
 ### Bootcamps
-<p>• Tudo sobre Scrum </p> 
-<p>• Tudo sobre Kanban </p> 
-<p>• Revisão sobre linhas de comando, padrões de código e automação de testes no Cypress Heroes </p> 
-<p>• Teste Automatizados de API utilizando Vitest e Supertest </p> 
+• Tudo sobre Scrum <br>
+• Tudo sobre Kanban <br>
+• Revisão sobre linhas de comando, padrões de código e automação de testes no Cypress Heroes <br>
+• Teste Automatizados de API utilizando Vitest e Supertest <br>
 
 ---
 
