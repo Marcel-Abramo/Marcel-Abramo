@@ -54,7 +54,6 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 <b>Contexto:</b> Projeto final do módulo de Automação em Cypress que simula um sistema bancário. 
 <br>
 <b>Cobertura:</b> Features de Login, Registro, Transferência, Histórico e Validações. Organização dos testes com <b>Page Objects</b> para melhor manutenção e escalabilidade  
-
 🔗 <b>Repositório:</b> <a href="https://github.com/Marcel-Abramo/RWA-exercises"> link </a>
 
 
