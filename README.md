@@ -79,11 +79,12 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## 📫 Contato
-<p>•  </p> 
+<p>• <a href="https://www.linkedin.com/in/marcel-abramo-8273b5224/"> LinkedIn - Andreline Lira </a> </p> 
+
 <p>•  </p> 
 
 ---
 
 ## ✨ Extras
-<img src="https://img.shields.io/badge/Open%to%Work"/>
+
 
