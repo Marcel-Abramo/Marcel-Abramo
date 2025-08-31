@@ -78,21 +78,8 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ---
 
 ## 📫 Contato
-<p>• <a href="https://www.linkedin.com/in/marcel-abramo-8273b5224/"> LinkedIn - Marcel Abramo QA </a> </p> 
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcel-abramo-8273b5224%2F"/>
-[Static Badge]()
-
-<img src="https://img.shields.io/badge/LinkedIn-blue"/> <a href="https://www.linkedin.com/in/marcel-abramo-8273b5224/"> Marcel Abramo QA </a>
-
-
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcel-abramo-8273b5224%2F/">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue? href="https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcel-abramo-8273b5224%2F">
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-abramo-8273b5224/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-abramo-8273b5224/) Marcel Abramo QA
 
 ---
 
