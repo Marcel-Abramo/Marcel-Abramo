@@ -79,7 +79,8 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-abramo-8273b5224/) Marcel Abramo QA
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-abramo-8273b5224/) 
+<br> Marcel Abramo QA
 
 ---
 
