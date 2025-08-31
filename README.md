@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## 🧭 Sobre mim
 <p>• QA Engineer em evolução, apaixonado por qualidade de software.
-Atuo com testes manuais e automação (Cypress, Postman, JavaScript).
+Atuo com testes manuais e automação.
 Tenho como objetivo elevar o padrão dos produtos e colaborar para entregas mais seguras.
 <p>•  </p> 
 
@@ -35,7 +35,19 @@ Tenho como objetivo elevar o padrão dos produtos e colaborar para entregas mais
 ---
 
 ## 📚 Aprendizado agora e futuro
-<p>•  </p> 
+
+### Mentoria Guardiões da Qualidade 
+<p> • Testes de Software </p>
+<p> • Processos Ágeis </p>
+<p> • Automação de Testes com Cypress </p>
+
+
+<p> • Testes de API </p>
+<p> • Automação de API com Postman </p>
+<p> • Automação Mobile </p>
+
+
+Objetivos: dominar testes avançados e CI/CD. </p> 
 <p>•  </p> 
 
 ---
