@@ -68,6 +68,7 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 <br>
 <b>Cobertura:</b> Testes automatizados dos principais fluxos web como login, navegação, formulários e interações básicas com página. 
 <br>
+<br>
 🔗 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/Marcel-Abramo/bootcamp-cypress)
 
 
