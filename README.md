@@ -53,12 +53,12 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 ### • Automação Completa Cypress Heroes - Login + Fluxo CRUD (Cypress | JavaScript | Page Objects) <br>
 <b>Contexto:</b> Projeto de automação end-to-end completo para a aplicação Cypress Heroes, desenvolvido durante a mentoria LumeStack. Foi implementado desde o planejamento estratégico até a execução de testes complexos, incluindo a criação de documentação profissional. 
 <br>
-<b>Cobertura:</b>
-  <b>- Planejamento:</b> Plano de Testes, Análise de Riscos, Matriz de Rastreabilidade
-  <b>- Automação:</b> Fluxo completo de CRUD (Create, Read, Update, Delete) de heróis com upload de avatar.
-  <b>- Autenticação:</b> Login com credenciais válidas, inválidas.
-  <b>- Home Page:</b> Testes para usuário logado, não logado e administrador com ações de like, contratação, edição e exclusão.
-  <b>- Arquitetura:</b> Page Object Model (POM) robusto, seletores resilientes (data-cy) e dados dinâmicos.
+<b>Cobertura:</b> <br>
+  <b>- Planejamento:</b> Plano de Testes, Análise de Riscos, Matriz de Rastreabilidade <br>
+  <b>- Automação:</b> Fluxo completo de CRUD (Create, Read, Update, Delete) de heróis com upload de avatar. <br>
+  <b>- Autenticação:</b> Login com credenciais válidas, inválidas. <br>
+  <b>- Home Page:</b> Testes para usuário logado, não logado e administrador com ações de like, contratação, edição e exclusão. <br>
+  <b>- Arquitetura:</b> Page Object Model (POM) robusto, seletores resilientes (data-cy) e dados dinâmicos. <br>
   <b>- Documentação:</b> Sugestões de melhorias para a aplicação com foco em UX e qualidade de código.
 <br>
 [![Repositório](https://img.shields.io/badge/Repositório-181717?logo=github&logoColor=white)](https://github.com/Marcel-Abramo/cypress-heroes.git)
