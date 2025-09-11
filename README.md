@@ -50,7 +50,7 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 
 ## 🧪 Projetos em destaque
 
-## ✨ • Automação Completa Cypress Heroes - Login + Fluxo CRUD (Cypress | JavaScript | Page Objects) <br>
+### ✨ • Automação Completa Cypress Heroes - Login + Fluxo CRUD (Cypress | JavaScript | Page Objects) <br>
 <b>Contexto:</b> Projeto de automação end-to-end completo para a aplicação Cypress Heroes, desenvolvido durante a mentoria LumeStack. Foi implementado desde o planejamento estratégico até a execução de testes complexos, incluindo a criação de documentação profissional. 
 <br>
 <b>Cobertura:</b> <br>
