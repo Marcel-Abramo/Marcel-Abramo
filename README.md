@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 ## 🧭 Sobre mim
 <p> 
 <b>QA Engineer</b>. Formado em Análise e Desenvolvimento de Sistemas. Atuo com testes manuais e automatizados. <br>
-Atualmente, trabalho em um projeto voluntário real onde sou responsável por estruturar todo o processo de testes do sistema web e do app.
-Realizei o levantamento dos requisitos tendo como base uma portaria regulatória. Realizei a criação do plano de testes, dos cenários e dos casos de testes e posteriormente a automação dos testes levando em consideração as partes críticas do sistema.<br>
-Tenho como objetivo elevar o padrão do produto final e colaborar para entregas mais seguras.
+Atualmente, trabalho em um projeto real onde sou responsável por estruturar todo o processo de testes do sistema web e app.<br>
+Realizei o levantamento dos requisitos tendo como base uma portaria regulatória. <br>
+Criei o plano de testes, a separação dos cenários e dos casos de testes e posteriormente a automação dos testes levando em consideração as partes críticas do sistema.<br>
+Tenho como objetivo elevar o padrão do produto final e colaborar para entregas mais seguras.<br>
 </p> 
 
 ---
@@ -33,18 +34,6 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 <img src="https://img.shields.io/badge/Git%20Bash-FF0000?style=flat&logo=git&logoColor=yellow"/>
 <br>
 </div>
-
----
-
-## 📚 Aprendizado agora e futuro
-
-### Mentoria Guardiões da Qualidade 
-• Testes de Software <br>
-• Processos Ágeis <br>
-• Automação de Testes com Cypress <br>  
-• Testes de API <br> 
-• Automação de API com Postman <br> 
-• Automação Mobile <br>
 
 ---
 
@@ -116,6 +105,10 @@ Tenho como objetivo elevar o padrão do produto final e colaborar para entregas 
 • HTML para Automação <br> 
 • Programação Básica Focada para QA com JavaScript <br>
 • Software Testing e Processos Scrum <br> 
+• Automação de testes com Cypress <br>
+• CI usando Cypress com Github Actions <br>
+• Testes de API <br>
+• Automação de API com Postman <br>
 <br>
 
 ### Bootcamps
